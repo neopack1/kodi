@@ -1,4 +1,7 @@
+.gitignore
+thumbs.db
 desktop.ini
 __*__.sh
 __*__.bat
 __*__.cmd
+*.pyo
