@@ -2,3 +2,8 @@ __*__.*
 *.pyo 
 desktop.ini 
 thumbs.db 
+.gitignore
+.git*
+*.sh
+*.cmg
+*.bat
