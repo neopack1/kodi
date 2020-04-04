@@ -4,6 +4,5 @@ desktop.ini
 thumbs.db 
 .gitignore
 .git*
-*.sh
-*.cmg
-*.bat
+*PUSH*
+*push*
