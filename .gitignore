@@ -1,8 +1,9 @@
-__*__.* 
-*.pyo 
-desktop.ini 
-thumbs.db 
 .gitignore
-.git*
-*PUSH*
-*push*
+thumbs.db
+desktop.ini
+__*__.sh
+__*__.bat
+__*__.cmd
+__*
+*temp*
+*.pyo
